@@ -305,6 +305,67 @@ For the pair of sounds [i]-[ɛ] and [n]-[ŋ]:
 12. [faŋgo] *"mud"*
 ]
 
+# Practice: Cook Islands Māori
+
+*Examine the* ***vowel sounds*** *in this data from Cook Islands Māori. Do you notice any patterns?*
+
+- Does the pattern suggest some vowels are in contrastive or complementary distribution? 
+
+- Are they separate phonemes or allophones of the same phoneme? 
+
+- What can we generalize about the vowels here?
+
+**Data on next slide...**
+
+---
+
+# Practice: Cook Islands Māori
+
+.pull-left[
+
+1. pūpū "a small shell"
+
+2. tōna "his/hers"
+
+3. kēkē "armpit"
+
+4. kakā "glory; shine"
+
+5. totō "to pull"
+
+6. pupu "a group"
+
+7. kaka "part of coconut tree"
+
+8. titi "traditional dance skirt"
+
+9. pūpū "a small shell"
+]
+
+.pull-right[
+
+9. kēke "cake"
+
+10. toto "blood"
+
+11. pati "to ask"
+
+12. tītī "a kind of bird"
+
+1. kākā "a vine"
+
+2. kekē "different"
+
+3. tona "yaws"
+
+4. pupū "to bubble up"
+
+10. patī "to splash"
+
+8. keke "to saw"
+
+]
+
 
 
 
