@@ -197,7 +197,7 @@ class: center, middle
 
   - **Bonus:** why *floral, lateral,* not \*florar, \*laterar?
 
-6. The [ɾ] in *atom* [æɾəm], *metal* [mɛɾəl] becomes [th] in the adjective forms *atomic* [ətʰɑmɪk], *metallic* [mətʰælik].
+6. The [ɾ] in *atom* [æɾəm], *metal* [mɛɾəl] becomes [tʰ] in the adjective forms *atomic* [ətʰɑmɪk], *metallic* [mətʰælik].
 
 
 ---
